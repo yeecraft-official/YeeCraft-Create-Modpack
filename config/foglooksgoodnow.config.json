@@ -1,0 +1,21 @@
+{
+	"disableAll": false,
+	"fogStart": 0.75,
+	"fogEnd": 0.59999996,
+	"fogStartRain": 0.6,
+	"fogEndRain": 0.6,
+	"enableCaveFog": true,
+	"caveFogVisibility": 0.25,
+	"caveFogColor": "#333333FF",
+	"biomeFogOverrides": [
+		{
+			"fogDensity": 0.8,
+			"fogDensityRain": 0.8,
+			"caveFogColor": "#333333ff",
+			"caveFogDensity": 1.8,
+			"biome": "minecraft:the_end",
+			"fogStart": 0.5,
+			"fogStartRain": 0.5
+		}
+	]
+}
