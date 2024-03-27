@@ -1,9 +1,0 @@
-{
-  "options": {},
-  "compression": 3,
-  "maxCaches": 5,
-  "customSplashLines": [],
-  "addDefaultSplashLines": true,
-  "singleThreadedReading": false,
-  "showCachingToast": true
-}

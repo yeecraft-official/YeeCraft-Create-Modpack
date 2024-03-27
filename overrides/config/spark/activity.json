@@ -1,0 +1,92 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "WenWen_xD",
+      "uniqueId": "3becb698-71e4-4678-b051-7891029dd2d1"
+    },
+    "time": 1711203282589,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ttXz6XZLWw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bowlsaa",
+      "uniqueId": "f45dc62d-aa5a-4477-bb10-c6fbc5735a43"
+    },
+    "time": 1711200689985,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Nn8pvBt76L"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "WenWen_xD",
+      "uniqueId": "3becb698-71e4-4678-b051-7891029dd2d1"
+    },
+    "time": 1711200649035,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3SH3WuUuPB"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1711016077282,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FaSbNw4nrq"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "WenWen_xD",
+      "uniqueId": "3becb698-71e4-4678-b051-7891029dd2d1"
+    },
+    "time": 1710862801258,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FIrweKDQTD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "WenWen_xD",
+      "uniqueId": "3becb698-71e4-4678-b051-7891029dd2d1"
+    },
+    "time": 1706736780598,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CP1tfsXXsh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "WenWen_xD",
+      "uniqueId": "3becb698-71e4-4678-b051-7891029dd2d1"
+    },
+    "time": 1706736743042,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9lG11Xd6Ef"
+    }
+  }
+]
