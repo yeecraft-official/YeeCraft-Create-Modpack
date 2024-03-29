@@ -1,0 +1,48 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [
+      {
+        "text": "Join our Discord!",
+        "color": "aqua",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://discord.gg/yeemo"
+        }
+      }
+    ],
+    "bottom_left": [],
+    "bottom_right": [
+      {
+        "text": "YeeCraft Create 1.4.0",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/wenwen357951/yeecraft"
+        }
+      }
+    ],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [
+      {
+        "text": "Join our Discord!",
+        "color": "aqua",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://discord.gg/yeemo"
+        }
+      }
+    ],
+    "bottom_left": [],
+    "bottom_right": [
+      {
+        "translate": "isxander-main-menu-credits.fabrishot",
+        "fallback": "使用 F9 拍攝4K截圖",
+        "color": "dark_gray"
+      }
+    ],
+    "mod_blacklist": []
+  }
+}
