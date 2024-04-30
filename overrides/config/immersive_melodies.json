@@ -3,15 +3,15 @@
   "showOtherPlayersMelodies": true,
   "getBufferDelay": 75,
   "mobInstrumentFactors": {
-    "minecraft:piglin_brute": 0.01,
     "minecraft:skeleton": 0.01,
-    "minecraft:wither_skeleton": 0.01,
-    "minecraft:zombified_piglin": 0.01,
-    "minecraft:zombie": 0.01,
+    "minecraft:piglin_brute": 0.01,
+    "minecraft:piglin": 0.01,
     "minecraft:pillager": 0.01,
-    "minecraft:piglin": 0.01
+    "minecraft:zombie": 0.01,
+    "minecraft:zombified_piglin": 0.01,
+    "minecraft:wither_skeleton": 0.01
   },
   "forceMobsToPickUp": true,
-  "clickedHelp": false,
+  "clickedHelp": true,
   "version": 1
 }

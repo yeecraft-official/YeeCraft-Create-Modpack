@@ -1,0 +1,53 @@
+{
+  "enabled": true,
+  "idle_time": 0,
+  "uncap_menu_frame_rate": false,
+  "states": {
+    "hovered": {
+      "frame_rate_target": 60,
+      "volume_multipliers": {
+        "records": 1.0,
+        "players": 1.0,
+        "blocks": 1.0
+      },
+      "graphics_state": "default",
+      "show_toasts": true,
+      "run_garbage_collector": false
+    },
+    "unfocused": {
+      "frame_rate_target": 24,
+      "volume_multipliers": {
+        "records": 1.0,
+        "players": 1.0,
+        "master": 0.25,
+        "blocks": 1.0
+      },
+      "graphics_state": "default",
+      "show_toasts": false,
+      "run_garbage_collector": false
+    },
+    "abandoned": {
+      "frame_rate_target": 10,
+      "volume_multipliers": {
+        "records": 1.0,
+        "players": 1.0,
+        "blocks": 1.0
+      },
+      "graphics_state": "default",
+      "show_toasts": false,
+      "run_garbage_collector": false
+    },
+    "invisible": {
+      "frame_rate_target": 0,
+      "volume_multipliers": {
+        "records": 1.0,
+        "players": 1.0,
+        "master": 0.0,
+        "blocks": 1.0
+      },
+      "graphics_state": "default",
+      "show_toasts": false,
+      "run_garbage_collector": false
+    }
+  }
+}

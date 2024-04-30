@@ -1,0 +1,7 @@
+reconnectionDelay = 15
+replaceMessages = true
+debug = false
+address = "wss://api.constructlegacy.ru:443/websockets/online-emotes"
+useEpoll = false
+threads = 0
+essentialIntegration = true

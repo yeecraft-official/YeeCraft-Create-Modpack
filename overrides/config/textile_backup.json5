@@ -7,7 +7,7 @@
 	   Time between automatic backups in seconds
 	   When set to 0 backups will not be performed automatically
 	*/
-	"backupInterval": 43200,
+	"backupInterval": 3600,
 	/* 
 	   Delay in seconds between typing-in /backup restore and it actually starting
 	*/

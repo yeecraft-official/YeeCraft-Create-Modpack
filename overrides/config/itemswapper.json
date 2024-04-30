@@ -5,7 +5,7 @@
   "showCursor": true,
   "serverPreventModUsage": false,
   "editMode": false,
-  "creativeCheatMode": true,
+  "creativeCheatMode": false,
   "ignoreHotbar": true,
   "unlockListMouse": false,
   "disableShulkers": false,

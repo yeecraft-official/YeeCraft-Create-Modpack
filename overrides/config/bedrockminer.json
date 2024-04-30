@@ -1,0 +1,11 @@
+{
+  "disable": true,
+  "debug": false,
+  "vertical": true,
+  "horizontal": true,
+  "taskLimit": 1,
+  "blockWhitelist": [
+    "minecraft:bedrock"
+  ],
+  "blockBlacklist": []
+}

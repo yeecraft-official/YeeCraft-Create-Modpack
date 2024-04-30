@@ -15,7 +15,7 @@
 	"backSlotY": 0,
 	"beltSlotX": 0,
 	"beltSlotY": 0,
-	"hudSlotX": 0,
+	"hudSlotX": -21,
 	"hudSlotY": 0,
 	"backslotScaling": 1.0,
 	"beltslotScaling": 1.0

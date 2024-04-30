@@ -1,5 +1,7 @@
 {
     "items": {
+        // Type: Integer
+        "oxygen_chargers_distribution_interval": 20,
         // Type: Long
         "oxygen_can_fluid_capacity": 500,
         // Type: Long

@@ -1,0 +1,16 @@
+{
+  "toggleMod": true,
+  "hideTexts": true,
+  "textDistance": 5.0,
+  "hideGlow": false,
+  "hideGlowDistance": 5.0,
+  "signCulling": true,
+  "simpleGlow": true,
+  "glowToShadow": false,
+  "fastGlowToShadow": false,
+  "optimizeGlow": false,
+  "hideBeam": false,
+  "beamDistance": 15.0,
+  "beaconCulling": true,
+  "optimizeBeam": true
+}

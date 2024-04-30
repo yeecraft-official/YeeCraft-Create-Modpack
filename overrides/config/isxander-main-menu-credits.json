@@ -14,10 +14,10 @@
     "bottom_left": [],
     "bottom_right": [
       {
-        "text": "YeeCraft Create 1.4.0",
+        "text": "YeeCraft Create 1.5.0",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/wenwen357951/yeecraft"
+          "value": "https://github.com/YeemoTW/Yeemo-Reborn-Optimization-Modpack"
         }
       }
     ],

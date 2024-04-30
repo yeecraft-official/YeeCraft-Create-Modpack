@@ -1,0 +1,164 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				allay = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				goat = true
+				ocelot = true
+				horse = true
+				vindicator = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				donkey = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				cat = true
+				zombie = true
+				guardian = true
+				sheep = true
+				player = true
+				pufferfish = true
+				wolf = true
+				villager = true
+				zombie_villager = true
+				elder_guardian = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+				experience_orb = true
+				boat = true
+				phantom = true
+				strider = true
+				zombified_piglin = true
+				piglin = true
+				magma_cube = true
+				ghast = true
+				blaze = true
+				wither_skeleton = true
+				small_fireball = true
+				trident = true
+				lightning_bolt = true
+				skeleton_horse = true
+				wandering_trader = true
+				trader_llama = true
+				minecart = true
+				potion = true
+				fireball = true
+				furnace_minecart = true
+				egg = true
+				hoglin = true
+				husk = true
+				polar_bear = true
+				firework_rocket = true
+				silverfish = true
+				camel = true
+				panda = true
+				piglin_brute = true
+				leash_knot = true
+				llama_spit = true
+				item_frame = true
+				mule = true
+				fishing_bobber = true
+				eye_of_ender = true
+				snowball = true
+				stray = true
+				spectral_arrow = true
+				ender_pearl = true
+				hopper_minecart = true
+				chest_boat = true
+				ender_dragon = true
+				dragon_fireball = true
+				area_effect_cloud = true
+				shulker = true
+				shulker_bullet = true
+				painting = true
+				wither = true
+				wither_skull = true
+				ravager = true
+				evoker_fangs = true
+				vex = true
+				snow_golem = true
+				sniffer = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+				contraption = true
+				potato_projectile = true
+				carriage_contraption = true
+				crafting_blueprint = true
+				gantry_contraption = true
+
+			[light_sources.settings.entities.create_enchantment_industry]
+				hyper_experience_bottle = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+				hat_stand = true
+
+			[light_sources.settings.entities.decorative_blocks]
+				dummy_entity = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.railways]
+				benchcart = true
+				conductor = true
+
+			[light_sources.settings.entities.xercapaint]
+				easel = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_1_rover = true
+
+			[light_sources.settings.entities.exposure]
+				photograph = true
+

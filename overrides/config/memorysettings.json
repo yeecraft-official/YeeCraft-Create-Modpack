@@ -17,7 +17,7 @@
   },
   "disableWarnings": {
     "desc:": "Disable the memory warnings, default: false",
-    "disableWarnings": false
+    "disableWarnings": true
   },
   "howtolink": {
     "desc:": "Set the link used to guide players to a website with instructions to change memory allocation",
